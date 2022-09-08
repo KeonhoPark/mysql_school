@@ -1,1 +1,1 @@
-# mysql_school
+# 데이터베이스 
